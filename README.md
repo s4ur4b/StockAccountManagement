@@ -1,7 +1,7 @@
 # StockAccountManagement
 ## Problem Statement
 
-###Created a program to read in Stock Names, Number of Share, Share Price.
+Created a program to read in Stock Names, Number of Share, Share Price.
 
 Print a Stock Report with the total value of each Stock and the total value of
 Stock and also user can buy and sell shares
